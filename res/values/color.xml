@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 灰色 -->
+    <color name="gray1">#EEECED</color>
+    <!-- 灰色 -->
+    <color name="gray2">#B0B0B0</color>
+    <!-- 灰色 -->
+    <color name="gray3">#C9C9C9</color>
+    <!-- 灰色 -->
+    <color name="gray4">#A4A4A4</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 半透明 -->
+    <color name="transparents">#e0000000</color>
+    <!-- 黑色(主体) -->
+    <color name="black1">#3B3B3B</color>
+    <!-- 黑色(菜单) -->
+    <color name="black2">#5B5B5B</color>
+    <!-- 黑色(导航) -->
+    <color name="black3">#212121</color>
+    <!-- 白色(菜单字体) -->
+    <color name="white1">#FFFFFF</color>
+    <!-- 蓝色(新闻列表点击背景) -->
+    <color name="blue1">#BFEFFF</color>
+    <!-- 蓝色 (记账薄收入字体颜色) -->
+    <color name="blue2">#00FFFF</color>
+    <!-- 红色 (记账薄支出字体颜色) -->
+    <color name="red1">#FF4040</color>
+
+</resources>

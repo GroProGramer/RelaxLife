@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+    <!-- 菜单字体样式 -->
+    <style name="menu_textview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white1</item>
+        <item name="android:layout_marginLeft">20dip</item>
+    </style>
+    <!-- 退出按钮样式 -->
+    <style name="exit_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/gray3</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:layout_marginBottom">10dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <!-- 天气头视图字体样式 -->
+    <style name="weather_head_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white1</item>
+    </style>
+</resources>
